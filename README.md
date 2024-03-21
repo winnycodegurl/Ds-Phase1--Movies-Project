@@ -1,4 +1,5 @@
 PHASE ONE MOVIES PROJECT
+
  Prediction project overview
 
 Introduction
@@ -37,11 +38,17 @@ Develop  graphical representation of information and data. By using visual eleme
 Technologies Used
 
 Python
+
 pandas
+
 Numpy
+
 Matplotlib
+
 Seaborn
+
 SQL
+
 Jupyter Notebook
 
 File Description
