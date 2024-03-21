@@ -6,10 +6,8 @@
 
 Very well!Lets go.
 
-![awesome (1)]
+![awesome](https://github.com/winnycodegurl/Ds-Phase1--Movies-Project/assets/162214319/a2b093d4-bc0c-4b4d-b02c-8af59d553990)
 
-
-   https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif
 
 This is a data science project aimed at helping Microsoft , a new movie company, establish what types of films are currently doing the best at the box office.The findings are the translated into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
