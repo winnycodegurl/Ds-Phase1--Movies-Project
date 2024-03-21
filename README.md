@@ -59,8 +59,11 @@ Jupyter Notebook
 **File Description**
 
 data/:bom.movie_gross.csv.gz,im.db,
+
 Directory containing the input datasets (movies.csv, actors.csv, viewers.sql)
+
 Movieprojectcode.ipynb: Directory containing Jupyter Notebooks for data exploration, analysis, and modeling.
+
 README.md: This file, providing an overview of the project and its structure
 
 **Usage**
