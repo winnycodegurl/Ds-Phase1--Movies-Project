@@ -24,12 +24,15 @@ Explore Collaborations: Consider partnerships or collaborations with established
 Projet Structure
 
 1.Data Exploration
+
 Exploring the data sets to understand the available information  and identify relevant features.
 
 2.Data Cleaning
+
 Preprocessing the data to ensure its quqlity and sustainability for analysis
 
 3.Data Analysis
+
 Utilize data Science techniques to analyse the data seta and extract meaningful insights.
 
 Data VIsualization
