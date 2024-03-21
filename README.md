@@ -5,7 +5,9 @@
 **Introduction**
 
 Very well!Lets go.
-![awesome (1)](https://github.com/winnycodegurl/Ds-Phase1--Movies-Project/assets/162214319/dbcf059e-d4fc-416f-8946-5fb2d06ab2d9)
+
+![awesome (1)]
+
 
    https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif
 
