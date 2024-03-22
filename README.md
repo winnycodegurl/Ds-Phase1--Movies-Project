@@ -82,11 +82,11 @@ Refer to the comments and markdown cells in the notebooks for detailed explanati
 The project will provide actionable insights and recommendations to Microsoft, aiding them in making informed decisions during the movie production process.
 The least rated movies are Romance,Horror and comedy.
 
-The top two most produced movies are Documenataries and Drama.
+The top two most produced movies are Documentaries and Drama.
 
 The most frequently watched movies are Documentaries.
 
-second best movie has a rntime of is 70.0.
+Second best movie has a runtime of is 70.0.
 
 The two best writers are:Brian Baucum and Loreto Di Cesare.
 
@@ -106,7 +106,7 @@ RECOMMEDATIONS.
 
 With a correlation coefficient of 0.685682 and a positive covariance between production_budget and domestic_gross, it's evident that there's a moderately positive relationship between the production budget and domestic gross. Microsoft should consider allocating sufficient budgets to productions while ensuring effective cost management to maximize return
 
-4.The second-best movie has a runtime of 70.0 minutes. Microsoft may consider analyzing the runtime preferences of the audience and adjusting their movie lengths accordingly to optimize viewer engagement.s.
+4.The second-best movie has a runtime of 70.0 minutes. Microsoft may consider analyzing the runtime preferences of the audience and adjusting their movie lengths accordingly to optimize viewer engagements
 
 
 Click to add a cell.
