@@ -19,7 +19,7 @@ Our main goal is to create the best selling movies in the industry.
 
   Research Box Office Trends:
   Analyze recent box office hits to identify genres, themes, and characteristics that have performed well. This analysis can involve studying successful films across different genres.
-  What is the best genre?
+  What is the best performing genre?
 
 Consider Audience Preferences: Understand the preferences of different demographic groups, such as age, gender, and geographical location. This can help in tailoring movie concepts to specific target audiences.
 what geographical location would make the best audience?
