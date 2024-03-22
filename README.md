@@ -29,7 +29,9 @@ Who are the best writers?
 Who are the best producers in the industry?
 
 **Projet Structure**
+
 Data Understanding.
+
 1.Data Exploration
 
 In this project I explore the data sets to understand the available information  and identify relevant features.This includes getting the types of data available,the sizes of data available and the sources of data available.My data sets are from ImDb an amazon company.
